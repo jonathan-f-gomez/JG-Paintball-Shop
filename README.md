@@ -21,4 +21,4 @@ This a sports store that I am building for Class. :rage4:
 
 
 ## Screenshot of Step 1
-![Step 1](https://github.com/jonathan-f-gomez/JonsStoreSln/blob/master/Screenshots/Step1.JPG)
+![Step 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step1.JPG)
