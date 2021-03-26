@@ -28,6 +28,6 @@ This a Paintball store that I am building for Class. :rage4:
 
 ## Screenshots of Part 1
 ![Step 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step1.JPG)
+### After Adding CSS
 ![Step 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step2.JPG)
 
-After Adding CSS
