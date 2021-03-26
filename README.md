@@ -1,5 +1,5 @@
 # JG Paintball Shop
-This a sports store that I am building for Class. :rage4:
+This a Paintball store that I am building for Class. :rage4:
 
 [Link to the authors work :suspect:](https://www.apress.com/gp/book/9781484254394)
 
