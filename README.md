@@ -8,6 +8,7 @@ This a Paintball store that I am building for Class. :rage4:
     
   1. [Script](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#script-that-i-used)
   2. [Screenshots Part 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-part-1)
+  3. [Screenshots Part 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-part-2)
 </details>
 
 ## Script that I used.
@@ -28,6 +29,23 @@ This a Paintball store that I am building for Class. :rage4:
 
 ## Screenshots of Part 1
 ![Step 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step1.JPG)
-### After Adding CSS
+#### After Adding CSS
 ![Step 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step2.JPG)
+
+## Screenshots of Part 2
+#### Navagation bar added. Allows user to filter by Category
+![NavBarMenu](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/8-5-SG.JPG)
+
+#### Shopping Cart added.
+![NavBarMenu](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/8-10-SG.JPG)
+
+#### Cart Preview.
+![NavBarMenu](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/8-11-SG.JPG)
+
+[Look at test results :rage3:](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Tests-SG.JPG)
+
+
+
+
+
 
