@@ -22,35 +22,35 @@ namespace JGPaintballShop.Models
                 {
                     Name = "Empire Gun - Axe 2.0",
                     Description = "Empire Axe 2.0 Gun Pressure controlled poppet engine for proven, reliable performance",
-                    Category = "Marker",
+                    Category = "Markers",
                     Price = 449.95m
                 },
                 new Product
                 {
                     Name = "Empire Gun - Mini GS",
                     Description = "next generation of legendary paintball marker",
-                    Category = "Marker",
+                    Category = "Markers",
                     Price = 329.95m
                 },
                 new Product
                 {
                     Name = "Dye Mask - i4",
                     Description = "Comfortable anatomic mask fit keeps it in place and makes it comfortable to wear",
-                    Category = "Mask",
+                    Category = "Masks",
                     Price = 124.95m
                 },
                 new Product
                 {
                     Name = "Base Mask - GS-F",
                     Description = "Comes in Black, Green, or Gray",
-                    Category = "Mask",
+                    Category = "Masks",
                     Price = 25.95m
                 },
                 new Product
                 {
                     Name = "Speedball Field",
                     Description = "Fully Furnished Speedball Field",
-                    Category = "Paintball",
+                    Category = "Fields",
                     Price = 79500
                 },
                 new Product
