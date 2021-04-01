@@ -24,7 +24,7 @@ namespace JGPaintballShop.Pages
         public IActionResult OnPost(long productId, string returnUrl)
         {
             Product product = repository.Products
-            .FirstOrDefault(p => p.ProductID == productId);
+                .FirstOrDefault(p => p.ProductID == productId);
             Cart = HttpContext.Session.GetJson<Cart>("cart") ?? new Cart();
             Cart.AddItem(product, 1);
             HttpContext.Session.SetJson("cart", Cart);
