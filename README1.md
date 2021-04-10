@@ -4,7 +4,7 @@ This a Paintball store that I am building for Class. :rage4:
 [Link to the authors work :suspect:](https://www.apress.com/gp/book/9781484254394)
 
 
-  <summary>Table of Contents</summary>
+  Table of Contents
     
   1. [Script](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#script-that-i-used)
   2. [Screenshots Chapter 7](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-7)
