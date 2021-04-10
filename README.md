@@ -7,8 +7,9 @@ This a Paintball store that I am building for Class. :rage4:
   <summary>Table of Contents</summary>
     
   1. [Script](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#script-that-i-used)
-  2. [Screenshots Part 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-part-1)
-  3. [Screenshots Part 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-part-2)
+  2. [Screenshots Chapter 7](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-7)
+  3. [Screenshots Chapter 8](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-8)
+  4. [Screenshots Chapter 9](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-9)
 </details>
 
 ## Script that I used.
@@ -27,12 +28,12 @@ This a Paintball store that I am building for Class. :rage4:
 ```
 
 
-## Screenshots of Part 1
+## Screenshots of Chapter 7
 ![Step 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step1.JPG)
 #### After Adding CSS
 ![Step 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step2.JPG)
 
-## Screenshots of Part 2
+## Screenshots of Chapter 8
 #### Navagation bar added. Allows user to filter by Category
 ![NavBarMenu](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/8-5-SG.JPG)
 
@@ -44,8 +45,18 @@ This a Paintball store that I am building for Class. :rage4:
 
 [Look at test results :rage3:](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Tests-SG.JPG)
 
+## Screenshots of Chapter 9
+#### Added the ability for users to remove items from thier shopping cart.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-1-SG.JPG)
 
+#### Widget added to the top right corner that shows users how much thier spening and how many items are in thier cart.
+![cartWidget](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-2-SG.JPG)
 
+#### Checkout validation to ensure users enter the proper information.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-5-SG.JPG)
+
+#### Checkout screen to show users what order number they are.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-6-SG.JPG)
 
 
 

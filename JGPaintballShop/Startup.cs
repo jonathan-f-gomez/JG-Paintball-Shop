@@ -11,6 +11,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using JGPaintballShop.Models;
 
+//TODO: page 200
+
+
 namespace JGPaintballShop
 {
     public class Startup
@@ -29,9 +32,12 @@ namespace JGPaintballShop
                 Configuration["ConnectionStrings:JGPaintballShopConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
+            services.AddScoped<IOrderRepository, EFOrderRepository>();
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

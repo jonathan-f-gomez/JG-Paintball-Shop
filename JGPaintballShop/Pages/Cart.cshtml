@@ -14,14 +14,22 @@
     <tbody>
         @foreach(var line in Model.Cart.Lines)
             {
-                <tr>
-                    <td class="text-center">@line.Quantity</td>
-                    <td class="text-left">@line.Product.Name</td>
-                    <td class="text-right">@line.Product.Price.ToString("c")</td>
-                    <td class="text-right">
-                        @((line.Quantity * line.Product.Price).ToString("c"))
-                    </td>
-                </tr>
+            <tr>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-left">@line.Product.Name</td>
+                <td class="text-right">@line.Product.Price.ToString("c")</td>
+                <td class="text-right">
+                    @((line.Quantity * line.Product.Price).ToString("c"))
+                </td>
+
+                <td class="text-center">
+                    <form asp-page-handler="Remove" method="post">
+                        <input type="hidden" name="ProductID" value="@line.Product.ProductID" />
+                        <input type="hidden" name="ReturnUrl" value="@Model.ReturnUrl" />
+                        <button type="submit" class="btn btn-sm btn-danger">Remove</button>
+                    </form>
+                </td>
+            </tr>
             }
     </tbody>
     <tfoot>
@@ -34,7 +42,8 @@
     </tfoot>
 </table>
 
-
+@*Check out and continue shopping buttons*@ 
 <div class="text-center">
     <a class="btn btn-primary" href="@Model.ReturnUrl">Continue shopping</a>
+    <a class="btn btn-primary" asp-action="Checkout" asp-controller="Order">Check Out</a>
 </div>
