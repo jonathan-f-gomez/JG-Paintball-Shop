@@ -3,14 +3,14 @@ This a Paintball store that I am building for Class. :rage4:
 
 [Link to the authors work :suspect:](https://www.apress.com/gp/book/9781484254394)
 
-<details>
+
   <summary>Table of Contents</summary>
     
   1. [Script](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#script-that-i-used)
   2. [Screenshots Chapter 7](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-7)
   3. [Screenshots Chapter 8](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-8)
   4. [Screenshots Chapter 9](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-9)
-</details>
+
 
 ## Script that I used.
 
