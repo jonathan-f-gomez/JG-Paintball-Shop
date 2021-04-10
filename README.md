@@ -13,6 +13,10 @@ This a Paintball store that I am building for Class. :rage4:
 </details>
 
 ## Script that I used.
+
+<details>
+  <summary>Collapse me..</summary>
+
 ```
     dotnet new globaljson --sdk-version 5.0.103 --output PaintBallSln/JGPaintballShop
     dotnet new web --no-https --output PaintBallSln/JGPaintballShop --framework net5.0
@@ -26,14 +30,24 @@ This a Paintball store that I am building for Class. :rage4:
 
     dotnet add PaintBallSln/JGPaintballShop.Tests package Moq --version 4.16.1
 ```
-
+</details>
 
 ## Screenshots of Chapter 7
+
+<details>
+  <summary>Collapse me..</summary>
+
 ![Step 1](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step1.JPG)
 #### After Adding CSS
 ![Step 2](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Step2.JPG)
 
+</details>
+
 ## Screenshots of Chapter 8
+
+<details>
+  <summary>Collapse me..</summary>
+
 #### Navagation bar added. Allows user to filter by Category
 ![NavBarMenu](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/8-5-SG.JPG)
 
@@ -45,7 +59,13 @@ This a Paintball store that I am building for Class. :rage4:
 
 [Look at test results :rage3:](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Tests-SG.JPG)
 
+</details>
+
 ## Screenshots of Chapter 9
+
+<details>
+  <summary>Collapse me..</summary>
+
 #### Added the ability for users to remove items from thier shopping cart.
 ![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-1-SG.JPG)
 
@@ -58,5 +78,5 @@ This a Paintball store that I am building for Class. :rage4:
 #### Checkout screen to show users what order number they are.
 ![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-6-SG.JPG)
 
-
+</details>
 
