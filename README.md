@@ -10,6 +10,7 @@ This a Paintball store that I am building for Class. :rage4:
   2. [Screenshots Chapter 7](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-7)
   3. [Screenshots Chapter 8](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-8)
   4. [Screenshots Chapter 9](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-9)
+  5. [Screenshots Chapter 10](https://github.com/jonathan-f-gomez/JG-Paintball-Shop#screenshots-of-chapter-10)
 
 
 ## Script that I used.
@@ -77,6 +78,29 @@ This a Paintball store that I am building for Class. :rage4:
 
 #### Checkout screen to show users what order number they are.
 ![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/9-6-SG.JPG)
+
+</details>
+
+
+## Screenshots of Chapter 10
+
+<details>
+  <summary>Collapse me..</summary>
+
+#### Added Admin page that allows administrators to view Products and Orders
+![adminPage](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/10-1-SG.JPG)
+
+#### Order Page shows shipped and unshipped orders.
+![ordersPage](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/10-3-SG.JPG)
+
+#### Pruducts page lists the all the products.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/10-5-SG.JPG)
+
+#### Actions you can preform on the prducts.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/10-9-SG.JPG)
+
+#### Edit product information.
+![removeItem](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/10-6-SG.JPG)
 
 </details>
 

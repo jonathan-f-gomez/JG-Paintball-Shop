@@ -11,9 +11,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using JGPaintballShop.Models;
 
-//TODO: page 200
-
-
 namespace JGPaintballShop
 {
     public class Startup
@@ -38,6 +35,7 @@ namespace JGPaintballShop
             services.AddSession();
             services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddServerSideBlazor();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -65,6 +63,8 @@ namespace JGPaintballShop
 
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapRazorPages();
+                endpoints.MapBlazorHub();
+                endpoints.MapFallbackToPage("/admin/{*catchall}", "/Admin/Index");
             });
 
             SeedData.EnsurePopulated(app);
