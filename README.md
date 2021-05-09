@@ -104,3 +104,14 @@ This a Paintball store that I am building for Class. :rage4:
 
 </details>
 
+## Screenshots of Chapter 11
+
+<details>
+  <summary>Collapse me..</summary>
+
+#### Added Identity to admin page so only admin accounts can reach
+![ID](https://github.com/jonathan-f-gomez/JG-Paintball-Shop/blob/master/Screenshots/Final.JPG)
+
+</details>
+
+
